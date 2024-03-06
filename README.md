@@ -19,4 +19,6 @@ fireworks}
 
 UrbanSounds 8K: https://urbansounddataset.weebly.com/urbansound8k.html
 
-labels used in UrbanSounds: {}
+labels used in UrbanSounds: {engine_idling
+gun_shot
+siren}
